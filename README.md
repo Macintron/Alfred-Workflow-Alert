@@ -14,7 +14,7 @@ Show an alert on the screen and a notification with Alfred:
 
 
 ## Relative times:
-* `5` corresponds to seconds
+* `5` corresponds to 5 seconds
 * `180s` corresponds to 3 minutes
 * `7m` corresponds to 7 minutes
 * `12h` corresponds to 12 hours
@@ -37,8 +37,8 @@ Show an alert on the screen and a notification with Alfred:
 ## History
 
 * Version 1.0.1
-	- Fixed parsing of absolute time with seconds
-	- Allow to run multiple workflows
+  - Fixed parsing of absolute time with seconds
+  - Allow to run multiple workflows
 
 * Version 1.0.0
   - Initial Release
